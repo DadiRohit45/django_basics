@@ -20,23 +20,18 @@ A collection of mini projects built using **Python and Django** — a high-level
 ---
 
 <!-- PROJECTS_START -->
-## 🗂️ Projects
 | Project | Description | Key Libraries |
 |---|---|---|
-| [📁 django_usingviews](./django_usingviews/README.md) | _it is a basic django project using only the views of the app to show the text on the hostserver produced by the django framework_ | `django` |
-
-
+| [📁 Django Using Views](./django_usingviews/README.md) | A basic Django project demonstrating how **views** work within a Django app — routing a URL to a view function that returns a response. Built using the `django_text` app inside the `django_usingviews` project. | `django` |
 <!-- PROJECTS_END -->
 
 ---
 
 <!-- REQUIREMENTS_START -->
-## 🛠️ Requirements
 - Python 3.8+
-- [Anaconda](https://www.anaconda.com/download) (optional, used for environment management)
 
 **Install via pip:**
-- [`django`](https://pypi.org/project/Django/) — high-level Python web framework
+- [`django`](https://pypi.org/project/django/)
 
 Install all at once:
 ```bash
